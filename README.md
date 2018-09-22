@@ -1,6 +1,6 @@
 # Text Processing Exercise
 
-Lesson 4: Text Processing exercise of the Udacity NLP Nanodegree
+Lesson 4: Text Processing exercise of the Udacity NLP Nanodegree [Link](https://github.com/udacity/AIND-NLP)
 
 ## Overview
 
